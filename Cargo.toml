@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 iced = "0.12.1"
 psutil = "3.3.0"
+sysinfo = "0.28"
